@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Client>
+    <Name>Asuka Langley Soryu</Name>
+    <Phone_Number>11111111118</Phone_Number>
+    <E_mail>stupidshinji@qwe.com</E_mail>
+    <Weight>45</Weight>
+    <Height>157</Height>
+    <BMI>18.2</BMI>
+    <Fatty_Lipase>8</Fatty_Lipase>
+    <sex>female</sex>
+    <Age>14</Age>
+    <Rank>1</Rank>
+    <Rank_Start_Time>
+        <Year>1999</Year>
+        <Month>10</Month>
+        <Day>01</Day>
+        <Hour>01</Hour>
+        <Minute>09</Minute>
+        <Second>20</Second>
+    </Rank_Start_Time>
+    <Rank_End_Time>
+        <Year>2003</Year>
+        <Month>10</Month>
+        <Day>01</Day>
+        <Hour>01</Hour>
+        <Minute>09</Minute>
+        <Second>20</Second>
+    </Rank_End_Time>
+    <State>active</State>
+    <Generic_Plan></Generic_Plan>
+    <My_Class>
+        Class-8
+    </My_Class>
+    <My_Live></My_Live>
+</Client>

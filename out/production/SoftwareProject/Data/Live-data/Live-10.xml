@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Class>
+    <Trainer>Higashikata Josuke</Trainer>
+    <State>active</State>
+    <Info>This is a lesson for beginner</Info>
+    <Type>abdominal exercise</Type>
+    <Rate_of_Process>10</Rate_of_Process>
+    <Start_time>
+        <Year>2000</Year>
+        <Month>01</Month>
+        <Day>01</Day>
+    </Start_time>
+    <End_time>
+        <Year>2000</Year>
+        <Month>01</Month>
+        <Day>20</Day>
+    </End_time>
+    <Video_Path></Video_Path>
+    <Day_Plan>
+        <Day_Plan_1>
+            <Year>2000</Year>
+            <Month>01</Month>
+            <Day>01</Day>
+            Clam 10 times/group
+            Crunch Twist 10 times/group
+        </Day_Plan_1>
+        <Day_Plan_2>
+            <Year>2000</Year>
+            <Month>01</Month>
+            <Day>02</Day>
+            Clam 10 times/group
+            Crunch Twist 10 times/group
+        </Day_Plan_2>
+        <Day_Plan_3>
+            <Year>2000</Year>
+            <Month>01</Month>
+            <Day>03</Day>
+            Clam 10 times/group
+            Crunch Twist 10 times/group
+        </Day_Plan_3>
+        <Day_Plan_4>
+            <Year>2000</Year>
+            <Month>01</Month>
+            <Day>04</Day>
+            Clam 10 times/group
+            Crunch Twist 10 times/group
+        </Day_Plan_4>
+        <Day_Plan_5>
+            <Year>2000</Year>
+            <Month>01</Month>
+            <Day>05</Day>
+            Clam 10 times/group
+            Crunch Twist 10 times/group
+        </Day_Plan_5>
+        <Day_Plan_6>
+            <Year>2000</Year>
+            <Month>01</Month>
+            <Day>06</Day>
+            Clam 10 times/group
+            Crunch Twist 10 times/group
+        </Day_Plan_6>
+        <Day_Plan_7>
+            <Year>2000</Year>
+            <Month>01</Month>
+            <Day>07</Day>
+            Clam 10 times/group
+            Crunch Twist 10 times/group
+        </Day_Plan_7>
+        <Day_Plan_8>
+            <Year>2000</Year>
+            <Month>01</Month>
+            <Day>08</Day>
+            Clam 10 times/group
+            Crunch Twist 10 times/group
+        </Day_Plan_8>
+        <Day_Plan_9>
+            <Year>2000</Year>
+            <Month>01</Month>
+            <Day>09</Day>
+            Clam 10 times/group
+            Crunch Twist 10 times/group
+        </Day_Plan_9>
+        <Day_Plan_10>
+            <Year>2000</Year>
+            <Month>01</Month>
+            <Day>10</Day>
+            Clam 10 times/group
+            Crunch Twist 10 times/group
+        </Day_Plan_10>
+        <Day_Plan_11>
+            <Year>2000</Year>
+            <Month>01</Month>
+            <Day>11</Day>
+            Clam 10 times/group
+            Crunch Twist 10 times/group
+        </Day_Plan_11>
+        <Day_Plan_12>
+            <Year>2000</Year>
+            <Month>01</Month>
+            <Day>12</Day>
+            Clam 10 times/group
+            Crunch Twist 10 times/group
+        </Day_Plan_12>
+        <Day_Plan_13>
+            <Year>2000</Year>
+            <Month>01</Month>
+            <Day>13</Day>
+            Clam 10 times/group
+            Crunch Twist 10 times/group
+        </Day_Plan_13>
+        <Day_Plan_14>
+            <Year>2000</Year>
+            <Month>01</Month>
+            <Day>14</Day>
+            Clam 10 times/group
+            Crunch Twist 10 times/group
+        </Day_Plan_14>
+        <Day_Plan_15>
+            <Year>2000</Year>
+            <Month>01</Month>
+            <Day>15</Day>
+            Clam 10 times/group
+            Crunch Twist 10 times/group
+        </Day_Plan_15>
+        <Day_Plan_16>
+            <Year>2000</Year>
+            <Month>01</Month>
+            <Day>16</Day>
+            Clam 10 times/group
+            Crunch Twist 10 times/group
+        </Day_Plan_16>
+        <Day_Plan_17>
+            <Year>2000</Year>
+            <Month>01</Month>
+            <Day>17</Day>
+            Clam 10 times/group
+            Crunch Twist 10 times/group
+        </Day_Plan_17>
+        <Day_Plan_18>
+            <Year>2000</Year>
+            <Month>01</Month>
+            <Day>18</Day>
+            Clam 10 times/group
+            Crunch Twist 10 times/group
+        </Day_Plan_18>
+        <Day_Plan_19>
+            <Year>2000</Year>
+            <Month>01</Month>
+            <Day>19</Day>
+            Clam 10 times/group
+            Crunch Twist 10 times/group
+        </Day_Plan_19>
+        <Day_Plan_20>
+            <Year>2000</Year>
+            <Month>01</Month>
+            <Day>20</Day>
+            Clam 10 times/group
+            Crunch Twist 10 times/group
+        </Day_Plan_20>
+    </Day_Plan>
+</Class>

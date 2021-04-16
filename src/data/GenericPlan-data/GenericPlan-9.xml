@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Generic_Plan>
+    <Food_Plan>
+        rye  pork cabbage kiwifruit
+    </Food_Plan>
+    <Train_Plan_Sports>
+        <Train_Pan_Sports_1>
+            yoga
+        </Train_Pan_Sports_1>
+        <Train_Plan_Sports_2>
+            meditation
+        </Train_Plan_Sports_2>
+    </Train_Plan_Sports>
+    <Train_Plan_Times>
+        <Train_Plan_Times_1>
+            2
+        </Train_Plan_Times_1>
+        <Train_Plan_Times_2>
+            3
+        </Train_Plan_Times_2>
+    </Train_Plan_Times>
+    <Train_Plan_Time>
+        <Train_Plan_Time_1>
+            <Year>2000</Year>
+            <Month>01</Month>
+            <Day>01</Day>
+        </Train_Plan_Time_1>
+        <Train_Plan_Time_2>
+            <Year>2000</Year>
+            <Month>01</Month>
+            <Day>02</Day>
+        </Train_Plan_Time_2>
+    </Train_Plan_Time>
+</Generic_Plan>

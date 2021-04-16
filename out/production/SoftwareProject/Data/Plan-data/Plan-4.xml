@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Plan>
+    <Sport>
+        meditation
+    </Sport>
+    <Times>
+        1
+    </Times>
+    <Start_Time>
+        <Year>2000</Year>
+        <Month>10</Month>
+        <Day>01</Day>
+        <Hour>01</Hour>
+        <Minute>09</Minute>
+        <Second>20</Second>
+    </Start_Time>
+    <End_Time>
+        <Year>2000</Year>
+        <Month>10</Month>
+        <Day>01</Day>
+        <Hour>01</Hour>
+        <Minute>39</Minute>
+        <Second>20</Second>
+    </End_Time>
+</Plan>

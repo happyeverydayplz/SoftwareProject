@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Client>
+    <Name>Edward Elric</Name>
+    <Phone_Number>11111111113</Phone_Number>
+    <E_mail>Imnotshort@qwe.ac.uk</E_mail>
+    <Weight>50</Weight>
+    <Height>150</Height>
+    <BMI>20</BMI>
+    <Fatty_Lipase>12</Fatty_Lipase>
+    <sex>male</sex>
+    <Age>15</Age>
+    <Rank>1</Rank>
+    <Rank_Start_Time>
+        <Year>2000</Year>
+        <Month>10</Month>
+        <Day>01</Day>
+        <Hour>01</Hour>
+        <Minute>09</Minute>
+        <Second>20</Second>
+    </Rank_Start_Time>
+    <Rank_End_Time>
+        <Year>2012</Year>
+        <Month>10</Month>
+        <Day>01</Day>
+        <Hour>01</Hour>
+        <Minute>09</Minute>
+        <Second>20</Second>
+    </Rank_End_Time>
+    <State>active</State>
+    <Generic_Plan></Generic_Plan>
+    <My_Class>
+        Class-3
+    </My_Class>
+    <My_Live></My_Live>
+</Client>

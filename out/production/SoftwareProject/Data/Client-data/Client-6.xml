@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Client>
+    <Name>Giorno Giovanna</Name>
+    <Phone_Number>11111111116</Phone_Number>
+    <E_mail>Ihaveadream@qwe.com</E_mail>
+    <Weight>65</Weight>
+    <Height>174</Height>
+    <BMI>21.4</BMI>
+    <Fatty_Lipase>12</Fatty_Lipase>
+    <sex>male</sex>
+    <Age>15</Age>
+    <Rank>1</Rank>
+    <Rank_Start_Time>
+        <Year>1999</Year>
+        <Month>10</Month>
+        <Day>01</Day>
+        <Hour>01</Hour>
+        <Minute>09</Minute>
+        <Second>20</Second>
+    </Rank_Start_Time>
+    <Rank_End_Time>
+        <Year>2001</Year>
+        <Month>10</Month>
+        <Day>01</Day>
+        <Hour>01</Hour>
+        <Minute>09</Minute>
+        <Second>20</Second>
+    </Rank_End_Time>
+    <State>active</State>
+    <Generic_Plan></Generic_Plan>
+    <My_Class>
+        Class-6
+    </My_Class>
+    <My_Live></My_Live>
+</Client>

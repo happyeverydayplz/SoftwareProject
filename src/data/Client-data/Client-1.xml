@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Client>
+    <Name>Eren Jaeger</Name>
+    <Phone_Number>11111111111</Phone_Number>
+    <E_mail>freedom@qwe.com</E_mail>
+    <Weight>63</Weight>
+    <Height>170</Height>
+    <BMI>20</BMI>
+    <Fatty_Lipase>12</Fatty_Lipase>
+    <sex>male</sex>
+    <Age>19</Age>
+    <Rank>1</Rank>
+    <Rank_Start_Time>
+        <Year>2000</Year>
+        <Month>10</Month>
+        <Day>01</Day>
+        <Hour>01</Hour>
+        <Minute>09</Minute>
+        <Second>20</Second>
+    </Rank_Start_Time>
+    <Rank_End_Time>
+        <Year>2001</Year>
+        <Month>10</Month>
+        <Day>01</Day>
+        <Hour>01</Hour>
+        <Minute>09</Minute>
+        <Second>20</Second>
+    </Rank_End_Time>
+    <State>banned</State>
+    <Generic_Plan></Generic_Plan>
+    <My_Class>
+        Class-1
+    </My_Class>
+    <My_Live></My_Live>
+</Client>

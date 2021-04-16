@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Client>
+    <Name>Dio Brando</Name>
+    <Phone_Number>11111111117</Phone_Number>
+    <E_mail>konodioda@qwe.com</E_mail>
+    <Weight>85</Weight>
+    <Height>195</Height>
+    <BMI>22.3</BMI>
+    <Fatty_Lipase>11</Fatty_Lipase>
+    <sex>male</sex>
+    <Age>119</Age>
+    <Rank>1</Rank>
+    <Rank_Start_Time>
+        <Year>2000</Year>
+        <Month>10</Month>
+        <Day>01</Day>
+        <Hour>01</Hour>
+        <Minute>09</Minute>
+        <Second>20</Second>
+    </Rank_Start_Time>
+    <Rank_End_Time>
+        <Year>2000</Year>
+        <Month>10</Month>
+        <Day>01</Day>
+        <Hour>01</Hour>
+        <Minute>10</Minute>
+        <Second>21</Second>
+    </Rank_End_Time>
+    <State>banned</State>
+    <Generic_Plan></Generic_Plan>
+    <My_Class>
+        Class-7
+    </My_Class>
+    <My_Live></My_Live>
+</Client>

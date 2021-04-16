@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Client>
+    <Name>Ikari Shinji</Name>
+    <Phone_Number>11111111112</Phone_Number>
+    <E_mail>noescape@qwe.ac.jp</E_mail>
+    <Weight>50</Weight>
+    <Height>158</Height>
+    <BMI>20</BMI>
+    <Fatty_Lipase>12</Fatty_Lipase>
+    <sex>male</sex>
+    <Age>14</Age>
+    <Rank>0</Rank>
+    <Rank_Start_Time>
+        <Year>2001</Year>
+        <Month>06</Month>
+        <Day>06</Day>
+        <Hour>01</Hour>
+        <Minute>09</Minute>
+        <Second>20</Second>
+    </Rank_Start_Time>
+    <Rank_End_Time>
+        <Year>2029</Year>
+        <Month>01</Month>
+        <Day>01</Day>
+        <Hour>01</Hour>
+        <Minute>00</Minute>
+        <Second>00</Second>
+    </Rank_End_Time>
+    <State>active</State>
+    <Generic_Plan></Generic_Plan>
+    <My_Class>
+        Class-2
+    </My_Class>
+    <My_Live></My_Live>
+</Client>

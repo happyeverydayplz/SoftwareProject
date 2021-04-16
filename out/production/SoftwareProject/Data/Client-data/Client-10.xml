@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Client>
+    <Name>Mikasa Ackerman</Name>
+    <Phone_Number>11111111110</Phone_Number>
+    <E_mail>sorryeren@qwe.com</E_mail>
+    <Weight>68</Weight>
+    <Height>176</Height>
+    <BMI>21.9</BMI>
+    <Fatty_Lipase>12</Fatty_Lipase>
+    <sex>male</sex>
+    <Age>20</Age>
+    <Rank>1</Rank>
+    <Rank_Start_Time>
+        <Year>2010</Year>
+        <Month>10</Month>
+        <Day>01</Day>
+        <Hour>01</Hour>
+        <Minute>09</Minute>
+        <Second>20</Second>
+    </Rank_Start_Time>
+    <Rank_End_Time>
+        <Year>2013</Year>
+        <Month>10</Month>
+        <Day>01</Day>
+        <Hour>01</Hour>
+        <Minute>09</Minute>
+        <Second>20</Second>
+    </Rank_End_Time>
+    <State>active</State>
+    <Generic_Plan></Generic_Plan>
+    <My_Class>
+        Class-10
+    </My_Class>
+    <My_Live></My_Live>
+</Client>

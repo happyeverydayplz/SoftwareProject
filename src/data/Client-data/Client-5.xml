@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Client>
+    <Name>Misaka Mikoto</Name>
+    <Phone_Number>11111111115</Phone_Number>
+    <E_mail>bilibili@qwe.com</E_mail>
+    <Weight>45</Weight>
+    <Height>161</Height>
+    <BMI>17.3</BMI>
+    <Fatty_Lipase>10</Fatty_Lipase>
+    <sex>female</sex>
+    <Age>20</Age>
+    <Rank>0</Rank>
+    <Rank_Start_Time>
+        <Year>2010</Year>
+        <Month>10</Month>
+        <Day>01</Day>
+        <Hour>01</Hour>
+        <Minute>09</Minute>
+        <Second>20</Second>
+    </Rank_Start_Time>
+    <Rank_End_Time>
+        <Year>2010</Year>
+        <Month>12</Month>
+        <Day>01</Day>
+        <Hour>01</Hour>
+        <Minute>09</Minute>
+        <Second>20</Second>
+    </Rank_End_Time>
+    <State>active</State>
+    <Generic_Plan></Generic_Plan>
+    <My_Class>
+        Class-5
+    </My_Class>
+    <My_Live></My_Live>
+</Client>
